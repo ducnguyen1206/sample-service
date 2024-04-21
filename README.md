@@ -1,2 +1,2 @@
-# sample-service
-Sample project based on Domain Driven Design
+# ms-customer-flow
+Handle bussiness logic for sushi Tuyenbeoo restaurant
